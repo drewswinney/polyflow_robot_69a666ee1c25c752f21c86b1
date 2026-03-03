@@ -7,7 +7,7 @@ def generate_launch_description():
         Node(
             package="motor_controller",
             executable="motor_controller_node",
-            name="motor_controller_69a667401c25c752f21c86e8",
+            name="motor_controller_n69a667401c25c752f21c86e8",
             output="screen",
             additional_env={
                 "POLYFLOW_NODE_ID": "69a667401c25c752f21c86e8",
@@ -21,7 +21,7 @@ def generate_launch_description():
         Node(
             package="motor_controller",
             executable="motor_controller_node",
-            name="motor_controller_69a667421c25c752f21c86ed",
+            name="motor_controller_n69a667421c25c752f21c86ed",
             output="screen",
             additional_env={
                 "POLYFLOW_NODE_ID": "69a667421c25c752f21c86ed",
@@ -35,7 +35,7 @@ def generate_launch_description():
         Node(
             package="motor_controller",
             executable="motor_controller_node",
-            name="motor_controller_69a667471c25c752f21c86f3",
+            name="motor_controller_n69a667471c25c752f21c86f3",
             output="screen",
             additional_env={
                 "POLYFLOW_NODE_ID": "69a667471c25c752f21c86f3",
@@ -49,7 +49,7 @@ def generate_launch_description():
         Node(
             package="motor_controller",
             executable="motor_controller_node",
-            name="motor_controller_69a6674b1c25c752f21c86f9",
+            name="motor_controller_n69a6674b1c25c752f21c86f9",
             output="screen",
             additional_env={
                 "POLYFLOW_NODE_ID": "69a6674b1c25c752f21c86f9",
@@ -63,7 +63,7 @@ def generate_launch_description():
         Node(
             package="differential_drive",
             executable="differential_drive_node",
-            name="differential_drive_69a6674f1c25c752f21c86ff",
+            name="differential_drive_n69a6674f1c25c752f21c86ff",
             output="screen",
             additional_env={
                 "POLYFLOW_NODE_ID": "69a6674f1c25c752f21c86ff",
@@ -77,7 +77,7 @@ def generate_launch_description():
         Node(
             package="gamepad",
             executable="gamepad_node",
-            name="gamepad_69a6675b1c25c752f21c8715",
+            name="gamepad_n69a6675b1c25c752f21c8715",
             output="screen",
             additional_env={
                 "POLYFLOW_NODE_ID": "69a6675b1c25c752f21c8715",
@@ -91,7 +91,7 @@ def generate_launch_description():
         Node(
             package="mission_runner",
             executable="mission_runner_node",
-            name="mission_runner_69a667591c25c752f21c8710",
+            name="mission_runner_n69a667591c25c752f21c8710",
             output="screen",
             additional_env={
                 "POLYFLOW_NODE_ID": "69a667591c25c752f21c8710",
@@ -105,7 +105,7 @@ def generate_launch_description():
         Node(
             package="logger",
             executable="logger_node",
-            name="logger_69a667691c25c752f21c8722",
+            name="logger_n69a667691c25c752f21c8722",
             output="screen",
             additional_env={
                 "POLYFLOW_NODE_ID": "69a667691c25c752f21c8722",
@@ -119,7 +119,7 @@ def generate_launch_description():
         Node(
             package="optical_encoder",
             executable="optical_encoder_node",
-            name="optical_encoder_69a6676f1c25c752f21c8728",
+            name="optical_encoder_n69a6676f1c25c752f21c8728",
             output="screen",
             additional_env={
                 "POLYFLOW_NODE_ID": "69a6676f1c25c752f21c8728",
@@ -133,7 +133,7 @@ def generate_launch_description():
         Node(
             package="optical_encoder",
             executable="optical_encoder_node",
-            name="optical_encoder_69a667731c25c752f21c872e",
+            name="optical_encoder_n69a667731c25c752f21c872e",
             output="screen",
             additional_env={
                 "POLYFLOW_NODE_ID": "69a667731c25c752f21c872e",
@@ -147,7 +147,7 @@ def generate_launch_description():
         Node(
             package="mode_switcher",
             executable="mode_switcher_node",
-            name="mode_switcher_69a6677c1c25c752f21c873a",
+            name="mode_switcher_n69a6677c1c25c752f21c873a",
             output="screen",
             additional_env={
                 "POLYFLOW_NODE_ID": "69a6677c1c25c752f21c873a",
